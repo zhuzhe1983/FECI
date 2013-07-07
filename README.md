@@ -1,4 +1,4 @@
 FECI
 ====
 
-Front-End Codeigniter
+Front-End Continuous integration
